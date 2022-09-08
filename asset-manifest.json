@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cakeandcookie.github.io/static/css/main.01a4e194.css",
+    "main.js": "/cakeandcookie.github.io/static/js/main.8c69c339.js",
+    "static/js/787.c8c01189.chunk.js": "/cakeandcookie.github.io/static/js/787.c8c01189.chunk.js",
+    "static/media/bghappy.jpg": "/cakeandcookie.github.io/static/media/bghappy.5b0e4a2ad672aaee2c83.jpg",
+    "static/media/heading.png": "/cakeandcookie.github.io/static/media/heading.2c2e049600a60ef343c0.png",
+    "static/media/brand.png": "/cakeandcookie.github.io/static/media/brand.38f54bf2eaeba4be3b27.png",
+    "index.html": "/cakeandcookie.github.io/index.html",
+    "main.01a4e194.css.map": "/cakeandcookie.github.io/static/css/main.01a4e194.css.map",
+    "main.8c69c339.js.map": "/cakeandcookie.github.io/static/js/main.8c69c339.js.map",
+    "787.c8c01189.chunk.js.map": "/cakeandcookie.github.io/static/js/787.c8c01189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a4e194.css",
+    "static/js/main.8c69c339.js"
+  ]
+}
